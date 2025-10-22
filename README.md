@@ -26,7 +26,7 @@ I’m a **Senior Laravel Developer** with a passion for building high-quality, s
 
 ### 💬 Let’s Connect  
 - 📫 **Email:** [almesery599@gmail.com](mailto:almesery599@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/almesery](#)  
+- 💼 **LinkedIn:** [linkedin.com/in/almesery](https://linkedin.com/in/almesery)  
 
 ---
 
